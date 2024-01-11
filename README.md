@@ -51,9 +51,9 @@ Logging : Log4j pour la gestion des journaux <br/>
 ### Conception UML
 #### Diagramme de UseCase:
 
-![diagramm UseCase](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![diagramm UseCase](https://github.com/mohatala/LabXpert/blob/master/conception/UseCase%20LabXpert.drawio.png)
 
 #### Diagramme de Classes:
 
-![diagramm Classes](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![diagramm Classes](https://github.com/mohatala/LabXpert/blob/master/conception/Classe%20LabXpert.drawio.png)
 
