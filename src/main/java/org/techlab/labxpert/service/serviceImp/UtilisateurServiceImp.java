@@ -24,7 +24,7 @@ public class UtilisateurServiceImp implements I_Utilisateur {
 
     @Override
     public Utilisateur modUser(Utilisateur user) {
-        return null;
+        return utilisateurRepository.save(user);
     }
 
     @Override

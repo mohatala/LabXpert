@@ -15,10 +15,7 @@ public class Analyse {
     private Echantillon echantillon;
     private String nomAnalyse;
     private Date dateDebut;
-
     private Date dateFin;
-
-
     private String commantaire;
 
     public Analyse() {
